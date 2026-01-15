@@ -1,0 +1,15 @@
+#card-header{
+    background-color: #c5dce4;
+    border: none;
+}
+#card{
+    border-color:rgb(197, 220, 228);
+}
+
+#btn_add{
+    background-color: #50cd89;
+    border: 0px;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+}
